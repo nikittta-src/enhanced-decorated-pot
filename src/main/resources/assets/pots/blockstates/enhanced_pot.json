@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "pots:block/enhanced_pot"
+    }
+  }
+}

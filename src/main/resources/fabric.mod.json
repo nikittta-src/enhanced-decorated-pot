@@ -1,0 +1,42 @@
+{
+	"schemaVersion": 1,
+	"id": "pots",
+	"version": "${version}",
+	"name": "Enhanced Decorated Pot",
+	"description": "decorated pot as it should be",
+	"authors": [
+		"nikittta",
+		"your_jeans"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/pots/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.nikittta.pots.PotsMod"
+		],
+		"client": [
+			"com.nikittta.pots.PotsModClient"
+		]
+	},
+	"mixins": [
+		"pots.mixins.json",
+		{
+			"config": "pots.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.14.19",
+		"minecraft": "*",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

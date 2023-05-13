@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.nikittta.pots.mixin.client",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "AbstractBlockMixin",
+    "FlowerClientMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "mixins": []
+}
