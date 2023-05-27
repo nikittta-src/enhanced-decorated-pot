@@ -1,6 +1,6 @@
 package com.nikittta.pots.registry;
 
-import com.nikittta.pots.blocks.EnhancedDecoratedPotBlockEntityRenderer;
+import com.nikittta.pots.blocks.decorated_pot.EnhancedDecoratedPotBlockEntityRenderer;
 import com.nikittta.pots.items.EnhancedDecoratedPotItemDynamicRenderer;
 import net.fabricmc.fabric.api.client.rendering.v1.BuiltinItemRendererRegistry;
 import net.fabricmc.fabric.api.client.rendering.v1.EntityModelLayerRegistry;

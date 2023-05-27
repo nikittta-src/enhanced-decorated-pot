@@ -1,6 +1,6 @@
 package com.nikittta.pots.mixin.client;
 
-import com.nikittta.pots.blocks.EnhancedDecoratedPotBlock;
+import com.nikittta.pots.blocks.decorated_pot.EnhancedDecoratedPotBlock;
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.Block;
 import net.minecraft.block.PlantBlock;

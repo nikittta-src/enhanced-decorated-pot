@@ -9,5 +9,12 @@
   "injectors": {
     "defaultRequire": 1
   },
-  "mixins": []
+  "mixins": [
+    "AzaleaGrowingMixin",
+    "FlowerEffectRemovingMixin",
+    "SaplingGrowingMixin",
+    "ShroomsGrowingParticlesRemovingMixin",
+    "WitherRoseParticlesRemovingMixin",
+    "SmallDripleafPlacementMixin"
+  ]
 }

@@ -1,7 +1,7 @@
 package com.nikittta.pots.recipes;
 
 import com.nikittta.pots.PotsMod;
-import com.nikittta.pots.blocks.EnhancedDecoratedPotBlockEntity;
+import com.nikittta.pots.blocks.decorated_pot.EnhancedDecoratedPotBlockEntity;
 import com.nikittta.pots.blocks.PotColor;
 import net.minecraft.inventory.RecipeInputInventory;
 import net.minecraft.item.BlockItem;

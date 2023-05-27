@@ -1,7 +1,7 @@
 /*
  * Decompiled with CFR 0.2.0 (FabricMC d28b102d).
  */
-package com.nikittta.pots.blocks;
+package com.nikittta.pots.blocks.decorated_pot;
 
 import com.nikittta.pots.PotsModClient;
 import net.minecraft.client.model.*;

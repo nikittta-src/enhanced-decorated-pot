@@ -1,6 +1,6 @@
 package com.nikittta.pots.registry;
 
-import com.nikittta.pots.blocks.EnhancedDecoratedPotBlockEntity;
+import com.nikittta.pots.blocks.decorated_pot.EnhancedDecoratedPotBlockEntity;
 import net.fabricmc.fabric.api.object.builder.v1.block.entity.FabricBlockEntityTypeBuilder;
 import net.minecraft.block.entity.BlockEntityType;
 

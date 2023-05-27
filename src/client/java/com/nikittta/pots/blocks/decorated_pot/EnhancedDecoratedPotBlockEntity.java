@@ -1,5 +1,6 @@
-package com.nikittta.pots.blocks;
+package com.nikittta.pots.blocks.decorated_pot;
 
+import com.nikittta.pots.blocks.PotColor;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.entity.BlockEntity;
 import net.minecraft.item.BlockItem;
